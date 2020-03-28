@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Code 301 Reading Notes
+## This repo have :
 
-You can use the [editor on GitHub](https://github.com/yaljamal/reading-note301/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+|topic  | links   |
+|------ | --------|
+|**Read 1** | [Read 01 ](https://yaljamal.github.io/reading-notes/class-01)|
+|**Read 2** | [Read 02](https://yaljamal.github.io/reading-notes/class-02) |
+|**Read 3** | [Read 03](https://yaljamal.github.io/reading-notes/class-03) |
+|**Read 4** | [Read 04](https://yaljamal.github.io/reading-notes/class-04) |
+|**Read 5** | [Read 05](https://yaljamal.github.io/reading-notes/class-05) |
+|**Read 6** | [Read 06](https://yaljamal.github.io/reading-notes/class-06) |
+|**Read 7** | [Read 07](https://yaljamal.github.io/reading-notes/class-07) |
+|**Read 8** | [Read 08](https://yaljamal.github.io/reading-notes/class-08) |
+|**Read 9** | [Read 09](https://yaljamal.github.io/reading-notes/class-09) |
+|**Read 10** | [Read 10](https://yaljamal.github.io/reading-notes/class-10) |
+|**Read 11** | [Read 11](https://yaljamal.github.io/reading-notes/class-11) |
+|**Read 12** | [Read 12](https://yaljamal.github.io/reading-notes/class-12) |
+|**Read 13** | [Read 13](https://yaljamal.github.io/reading-notes/class-13) |
+|**Read 14a** | [Read 14a](https://yaljamal.github.io/reading-notes/class-14a) |
+|**Read 14b** | [Read 14b](https://yaljamal.github.io/reading-notes/class-14b) |
+|**Read 15** | [Read 15](https://yaljamal.github.io/reading-notes/class-15) |
+|--------------------------|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaljamal/reading-note301/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## this is made By [@yaljamal](https://github.com/yaljamal) :+1:
