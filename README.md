@@ -7,7 +7,7 @@
 |------ | --------|
 |**Read 1** | [Read 01 ](https://yaljamal.github.io/reading-note301/read-01)|
 |**Read 2** | [Read 02](https://yaljamal.github.io/reading-note301/read-01) |
-|**Read 3** | [Read 03](https://yaljamal.github.io/reading-note301/read-01) |
+|**Read 3** | [Read 03](https://yaljamal.github.io/reading-note301/read-02) |
 |**Read 4** | [Read 04](https://yaljamal.github.io/reading-note301/read-01) |
 |**Read 5** | [Read 05](https://yaljamal.github.io/reading-note301/read-01) |
 |**Read 6** | [Read 06](https://yaljamal.github.io/reading-note301/read-01) |
